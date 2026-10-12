@@ -2,11 +2,12 @@
   "id": "koffi",
   "name": "Koffi & Friends",
   "author": "TREK",
-  "description": "The TREK mascot troupe on your boarding pass: Koffi the suitcase, Chiki the snack, Passi the passport, Puffi the neck pillow. Pick one, or a duo that naps and stamps together.",
+  "description": "Dashboard widget: Koffi the trolley, Chiki the konbini chicken, Passi the passport and Puffi the neck pillow walk in 3D along the boarding pass of your next trip. Pick one, or a duo.",
   "repo": "mauriceboe/trek-plugin-koffi",
   "homepage": "https://github.com/mauriceboe/trek-plugin-koffi",
   "tags": [
     "widget",
+    "dashboard",
     "mascot",
     "fun"
   ],
@@ -14,6 +15,19 @@
   "icon": "Luggage",
   "authorPublicKey": "4QeCOm8gMfcoZdjIznao2KV10NSS7u/0AYn+6FA6/Oo=",
   "versions": [
+    {
+      "version": "3.0.0",
+      "gitTag": "v3.0.0",
+      "commitSha": "dcd4c67559f0089b07dbb801ca7f0011acd597b1",
+      "downloadUrl": "https://github.com/mauriceboe/trek-plugin-koffi/releases/download/v3.0.0/plugin.zip",
+      "sha256": "4f07eb13967b79f07eb80452b207637ebc41a8e2e13edd14ebb91a4fc9672ea4",
+      "trek": ">=3.5.0",
+      "size": 681307,
+      "apiVersion": 1,
+      "nativeModules": false,
+      "publishedAt": "2026-10-12T10:35:03.944Z",
+      "signature": "6ppjlw8bDPbi3yRTUxjs27WYfYRqTUQIjiw0iiRevlopBvJ47y11EExjUYxgldhwYniY8aW04lpvN3piX06jCw=="
+    },
     {
       "version": "2.0.1",
       "gitTag": "v2.0.1",
