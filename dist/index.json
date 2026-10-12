@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T10:36:19.718Z",
+  "generatedAt": "2026-10-12T10:52:14.148Z",
   "plugins": [
     {
       "id": "airbnb-mcp",
@@ -508,6 +508,19 @@
       "authorPublicKey": "4QeCOm8gMfcoZdjIznao2KV10NSS7u/0AYn+6FA6/Oo=",
       "versions": [
         {
+          "version": "3.0.1",
+          "gitTag": "v3.0.1",
+          "commitSha": "9ef324a66ff046cb0e4d509be1d3e928b6e5413e",
+          "downloadUrl": "https://github.com/mauriceboe/trek-plugin-koffi/releases/download/v3.0.1/plugin.zip",
+          "sha256": "eeafe1cce4574b149c77a1b45f5d989c3e882b53318bf472b78f69b33dfd0e7f",
+          "trek": ">=3.5.0 <6.0.0",
+          "size": 681314,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-12T10:51:23.679Z",
+          "signature": "Z6TdgDR06ULePxF5uH8RCJ8JhIwG2wj+KIC7WKbYZB0V1fByvEPbfeEGyDkiFA52YrFu9oadrD7Tg1CUvVg8Dw=="
+        },
+        {
           "version": "3.0.0",
           "gitTag": "v3.0.0",
           "commitSha": "dcd4c67559f0089b07dbb801ca7f0011acd597b1",
@@ -580,7 +593,7 @@
       "reviewedAt": "2026-10-12",
       "boundOwner": "mauriceboe",
       "downloadCount": 986,
-      "screenshotUrl": "https://raw.githubusercontent.com/mauriceboe/trek-plugin-koffi/dcd4c67559f0089b07dbb801ca7f0011acd597b1/docs/screenshot.png"
+      "screenshotUrl": "https://raw.githubusercontent.com/mauriceboe/trek-plugin-koffi/9ef324a66ff046cb0e4d509be1d3e928b6e5413e/docs/screenshot.png"
     },
     {
       "id": "nihongo-nugget",
@@ -1459,6 +1472,19 @@
       "icon": "ListTodo",
       "versions": [
         {
+          "version": "1.0.2",
+          "gitTag": "v1.0.2",
+          "commitSha": "48a1c78cc6f5118ec82c0be4b12474f06bc1a29d",
+          "downloadUrl": "https://github.com/mauriceboe/trek-plugin-trip-todos/releases/download/v1.0.2/plugin.zip",
+          "sha256": "eaecdd2bfd0fca371b35bbe67694cbdaf7562dcd89a86c7d9650fa9af859f795",
+          "trek": ">=3.3.0 <6.0.0",
+          "size": 20890,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-12T10:51:21.761Z",
+          "signature": "h3S0jBaB6f8Y8jn8NZvJrA7h+TmtiVWK2pWU3OQUJKTPNeJ9pm8WcRx3gcq/ANn46ShNO3Hy6WFsSRQgOoV3Ag=="
+        },
+        {
           "version": "1.0.1",
           "gitTag": "v1.0.1",
           "commitSha": "a732774152f1ae1bcf4a1c4902c4be41c1256b5a",
@@ -1488,10 +1514,10 @@
       ],
       "homepage": "https://github.com/mauriceboe/trek-plugin-trip-todos",
       "authorPublicKey": "4QeCOm8gMfcoZdjIznao2KV10NSS7u/0AYn+6FA6/Oo=",
-      "reviewedAt": "2026-08-28",
+      "reviewedAt": "2026-10-12",
       "boundOwner": "mauriceboe",
       "downloadCount": 1231,
-      "screenshotUrl": "https://raw.githubusercontent.com/mauriceboe/trek-plugin-trip-todos/a732774152f1ae1bcf4a1c4902c4be41c1256b5a/docs/screenshot.png"
+      "screenshotUrl": "https://raw.githubusercontent.com/mauriceboe/trek-plugin-trip-todos/48a1c78cc6f5118ec82c0be4b12474f06bc1a29d/docs/screenshot.png"
     },
     {
       "id": "vanlife",
