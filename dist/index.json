@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T10:06:56.146Z",
+  "generatedAt": "2026-10-12T10:35:25.400Z",
   "plugins": [
     {
       "id": "airbnb-mcp",
@@ -748,6 +748,20 @@
       "type": "trip-page",
       "versions": [
         {
+          "version": "1.8.1",
+          "gitTag": "v1.8.1",
+          "commitSha": "a446a4f93401a52c2fa72cc1b90f560de8aa69ce",
+          "downloadUrl": "https://github.com/raduwolf12/transport-search/releases/download/v1.8.1/plugin.zip",
+          "sha256": "f687ba7b684005440af7964dae3d6003469d4f6442823807fe4921df12fff521",
+          "trek": ">=4.2.0 <6.0.0",
+          "size": 52605,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-08T16:40:14.726Z",
+          "operatorEgress": true,
+          "signature": "pLMa2GgKDSPn40gcsI7EPUT9p9mXpg/nM7DK5RI082EGWCGxnqU0G7P64+WmNAis46MgNnXK4UaEdNQy8B/kBA=="
+        },
+        {
           "version": "1.8.0",
           "gitTag": "v1.8.0",
           "commitSha": "4e883317c00bdf04efc7cf51f120a7d2abf4ddab",
@@ -795,7 +809,7 @@
       "boundOwner": "raduwolf12",
       "authorPublicKey": "uMHwp7oHtdz7DIpkW4H0yZFMuyAxmVajzKh4079jiwA=",
       "downloadCount": 575,
-      "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/transport-search/4e883317c00bdf04efc7cf51f120a7d2abf4ddab/docs/screenshot.png"
+      "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/transport-search/a446a4f93401a52c2fa72cc1b90f560de8aa69ce/docs/screenshot.png"
     },
     {
       "id": "trek-gotify",
@@ -1128,6 +1142,19 @@
       "type": "page",
       "versions": [
         {
+          "version": "1.7.1",
+          "gitTag": "v1.7.1",
+          "commitSha": "f1d00a2d7bba95e8691050ff04c8f2e357cf1151",
+          "downloadUrl": "https://github.com/raduwolf12/trip-importer/releases/download/v1.7.1/plugin.zip",
+          "sha256": "e04eb86a6553a2494884f20bf136278af39d4a84a36e27d62fc410da04766546",
+          "trek": ">=4.2.0 <6.0.0",
+          "size": 564867,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-08T16:38:19.027Z",
+          "operatorEgress": true
+        },
+        {
           "version": "1.7.0",
           "gitTag": "v1.7.0",
           "commitSha": "82e815afa692d04529ba9647ce12af399d2655c9",
@@ -1266,10 +1293,10 @@
         }
       ],
       "icon": "PackageOpen",
-      "reviewedAt": "2026-10-06",
+      "reviewedAt": "2026-10-12",
       "boundOwner": "raduwolf12",
       "downloadCount": 908,
-      "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/trip-importer/82e815afa692d04529ba9647ce12af399d2655c9/docs/screenshot.png"
+      "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/trip-importer/f1d00a2d7bba95e8691050ff04c8f2e357cf1151/docs/screenshot.png"
     },
     {
       "id": "trip-research",
