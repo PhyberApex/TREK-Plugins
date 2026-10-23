@@ -1,0 +1,29 @@
+{
+  "id": "fieldnotes-trip",
+  "name": "Trip Fieldnotes",
+  "author": "Xuyu Wang",
+  "description": "Shared trip knowledge: linked Fieldnotes and saved snapshots.",
+  "repo": "Tangerineeew/fieldnotes-trip",
+  "type": "trip-page",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "gitTag": "v0.2.0",
+      "commitSha": "be038a88935253ecf78d6e23f3f61654da55346a",
+      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes-trip/releases/download/v0.2.0/plugin.zip",
+      "sha256": "0dba9f35ce674c49ed1856aa98a563de180ae6287697c17e258d5a4b9c4b433e",
+      "trek": ">=4.3.0 <4.4.0",
+      "size": 339646,
+      "apiVersion": 1,
+      "nativeModules": false,
+      "publishedAt": "2026-10-23T08:21:00.108Z",
+      "pluginDependencies": [
+        {
+          "id": "fieldnotes",
+          "version": ">=0.1.0"
+        }
+      ]
+    }
+  ],
+  "icon": "NotebookPen"
+}
