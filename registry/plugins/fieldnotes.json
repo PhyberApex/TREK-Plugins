@@ -7,16 +7,16 @@
   "type": "page",
   "versions": [
     {
-      "version": "0.2.0",
-      "gitTag": "v0.2.0",
-      "commitSha": "4c31467d87753a452935f9f72e1632304804652f",
-      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes/releases/download/v0.2.0/plugin.zip",
-      "sha256": "43ef98fc1321254ab9fb6a39a791cea6f5d4993d87a4999eaeb541ff4a282694",
-      "trek": ">=4.3.0 <4.4.0",
-      "size": 416003,
+      "version": "0.2.4",
+      "gitTag": "v0.2.4",
+      "commitSha": "a5233055f038cad3ed449b32e546e829a1d1942c",
+      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes/releases/download/v0.2.4/plugin.zip",
+      "sha256": "d372bc64fdbc31438385bf361ba73423e8b9ce3bed32767216c95980120914e7",
+      "trek": ">=4.3.0",
+      "size": 430993,
       "apiVersion": 1,
       "nativeModules": false,
-      "publishedAt": "2026-10-23T08:12:22.182Z",
+      "publishedAt": "2026-10-23T16:21:31.409Z",
       "operatorEgress": true
     }
   ],
