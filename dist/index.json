@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T08:31:21.006Z",
+  "generatedAt": "2026-10-25T09:12:01.034Z",
   "plugins": [
     {
       "id": "airbnb-mcp",
@@ -907,6 +907,19 @@
       "type": "trip-page",
       "versions": [
         {
+          "version": "0.1.2",
+          "gitTag": "v0.1.2",
+          "commitSha": "aa65fe9e3f5df62157290c1f40e92406d4c92ca7",
+          "downloadUrl": "https://github.com/aangelisc/trek-timeline/releases/download/v0.1.2/plugin.zip",
+          "sha256": "6f834b07d98ab2c0646e34389b41f221943607e609ddf887fb513174a7746e07",
+          "trek": ">=4.0.0 <6.0.0",
+          "size": 51875,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-20T21:30:42.997Z",
+          "signature": "6ln7PV80SKnQKZ4Peofl2OTSXaiD6TdjJrcpIVsQAz70pNuGtJVg5UBzqT0k4rV5aJ4emVTyPBUfgw1Px7xBDA=="
+        },
+        {
           "version": "0.1.1",
           "gitTag": "v0.1.1",
           "commitSha": "cd3df2097cf146365e11988be0d2d2cce1f552c2",
@@ -935,10 +948,10 @@
       ],
       "icon": "Sheet",
       "authorPublicKey": "3E5NoGUyeqLwKxVOj9JOGHS1LCCnwRm85M0u/cZcxF4=",
-      "reviewedAt": "2026-10-06",
+      "reviewedAt": "2026-10-25",
       "boundOwner": "aangelisc",
       "downloadCount": 329,
-      "screenshotUrl": "https://raw.githubusercontent.com/aangelisc/trek-timeline/cd3df2097cf146365e11988be0d2d2cce1f552c2/docs/screenshot.png"
+      "screenshotUrl": "https://raw.githubusercontent.com/aangelisc/trek-timeline/aa65fe9e3f5df62157290c1f40e92406d4c92ca7/docs/screenshot.png"
     },
     {
       "id": "trek-vox-plugin",
