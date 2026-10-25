@@ -20,5 +20,7 @@
       "operatorEgress": true
     }
   ],
-  "icon": "NotebookPen"
+  "icon": "NotebookPen",
+  "reviewedAt": "2026-10-25",
+  "boundOwner": "Tangerineeew"
 }

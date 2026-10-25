@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T09:12:01.034Z",
+  "generatedAt": "2026-10-25T09:16:18.608Z",
   "plugins": [
     {
       "id": "airbnb-mcp",
@@ -397,6 +397,33 @@
       "boundOwner": "raduwolf12",
       "downloadCount": 1046,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/featured-guides/9e62adfa878d7a50a2646c3c875e3132f269c7ec/docs/screenshot.png"
+    },
+    {
+      "id": "fieldnotes",
+      "name": "Fieldnotes",
+      "author": "Xuyu Wang",
+      "description": "A private Markdown library with explicit trip sharing, live references and frozen travel copies.",
+      "repo": "Tangerineeew/fieldnotes",
+      "type": "page",
+      "versions": [
+        {
+          "version": "0.2.4",
+          "gitTag": "v0.2.4",
+          "commitSha": "a5233055f038cad3ed449b32e546e829a1d1942c",
+          "downloadUrl": "https://github.com/Tangerineeew/fieldnotes/releases/download/v0.2.4/plugin.zip",
+          "sha256": "d372bc64fdbc31438385bf361ba73423e8b9ce3bed32767216c95980120914e7",
+          "trek": ">=4.3.0",
+          "size": 430993,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-23T16:21:31.409Z",
+          "operatorEgress": true
+        }
+      ],
+      "icon": "NotebookPen",
+      "reviewedAt": "2026-10-25",
+      "boundOwner": "Tangerineeew",
+      "screenshotUrl": "https://raw.githubusercontent.com/Tangerineeew/fieldnotes/a5233055f038cad3ed449b32e546e829a1d1942c/docs/screenshot.png"
     },
     {
       "id": "flight-map",
