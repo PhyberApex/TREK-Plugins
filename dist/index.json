@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T08:40:38.792Z",
+  "generatedAt": "2026-10-25T09:22:03.559Z",
   "plugins": [
     {
       "id": "airbnb-mcp",
@@ -99,7 +99,7 @@
       "reviewedAt": "2026-09-08",
       "boundOwner": "jjahn-source",
       "authorPublicKey": "FTyD1ozI9RHZrPNyAFUQq/AEipEuv9EoxCr3677sfN4=",
-      "downloadCount": 649,
+      "downloadCount": 678,
       "screenshotUrl": "https://raw.githubusercontent.com/jjahn-source/trek-plugin-airbnb-mcp/f2964e1cffd86843558e440d291f24ddbb535691/docs/screenshot.png"
     },
     {
@@ -205,7 +205,7 @@
       "reviewedAt": "2026-09-07",
       "boundOwner": "imusic-487",
       "icon": "Search",
-      "downloadCount": 436,
+      "downloadCount": 439,
       "screenshotUrl": "https://raw.githubusercontent.com/imusic-487/Trek-Amap-search/b7b2c789bd5463628c938dd30fef87dd1d17254d/docs/screenshot.png"
     },
     {
@@ -253,7 +253,7 @@
       "reviewedAt": "2026-08-24",
       "boundOwner": "jubnl",
       "authorPublicKey": "YgFVo9ES55xz9m0/0Thh5sgx/IlVaaU2r0hScEawgiA=",
-      "downloadCount": 818,
+      "downloadCount": 833,
       "screenshotUrl": "https://raw.githubusercontent.com/jubnl/Trek_Plugin-Budget_Table/dae7696f71fea512dbf2c11be5bc066c3917c0e1/docs/screenshot.png"
     },
     {
@@ -308,7 +308,7 @@
       "authorPublicKey": "uMHwp7oHtdz7DIpkW4H0yZFMuyAxmVajzKh4079jiwA=",
       "reviewedAt": "2026-08-24",
       "boundOwner": "raduwolf12",
-      "downloadCount": 490,
+      "downloadCount": 504,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/community-trips/2ed71eb258a8ac0d5bc3019f0c9eb30c18f729ee/docs/screenshot.png"
     },
     {
@@ -395,8 +395,67 @@
       "icon": "Compass",
       "reviewedAt": "2026-08-20",
       "boundOwner": "raduwolf12",
-      "downloadCount": 1030,
+      "downloadCount": 1046,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/featured-guides/9e62adfa878d7a50a2646c3c875e3132f269c7ec/docs/screenshot.png"
+    },
+    {
+      "id": "fieldnotes",
+      "name": "Fieldnotes",
+      "author": "Xuyu Wang",
+      "description": "A private Markdown library with explicit trip sharing, live references and frozen travel copies.",
+      "repo": "Tangerineeew/fieldnotes",
+      "type": "page",
+      "versions": [
+        {
+          "version": "0.2.4",
+          "gitTag": "v0.2.4",
+          "commitSha": "a5233055f038cad3ed449b32e546e829a1d1942c",
+          "downloadUrl": "https://github.com/Tangerineeew/fieldnotes/releases/download/v0.2.4/plugin.zip",
+          "sha256": "d372bc64fdbc31438385bf361ba73423e8b9ce3bed32767216c95980120914e7",
+          "trek": ">=4.3.0",
+          "size": 430993,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-23T16:21:31.409Z",
+          "operatorEgress": true
+        }
+      ],
+      "icon": "NotebookPen",
+      "reviewedAt": "2026-10-25",
+      "boundOwner": "Tangerineeew",
+      "screenshotUrl": "https://raw.githubusercontent.com/Tangerineeew/fieldnotes/a5233055f038cad3ed449b32e546e829a1d1942c/docs/screenshot.png"
+    },
+    {
+      "id": "fieldnotes-trip",
+      "name": "Trip Fieldnotes",
+      "author": "Xuyu Wang",
+      "description": "Shared trip knowledge: linked Fieldnotes and saved snapshots.",
+      "repo": "Tangerineeew/fieldnotes-trip",
+      "type": "trip-page",
+      "versions": [
+        {
+          "version": "0.2.4",
+          "gitTag": "v0.2.4",
+          "commitSha": "129bf41e5d988fbf4cb1f716a79f68a1bcb819e7",
+          "downloadUrl": "https://github.com/Tangerineeew/fieldnotes-trip/releases/download/v0.2.4/plugin.zip",
+          "sha256": "83a8137fad22ea50168d41fc7c4bacbc1fe5ebc3f0c4234f8d1564ec15b4516c",
+          "trek": ">=4.3.0",
+          "size": 352848,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-23T16:21:56.205Z",
+          "pluginDependencies": [
+            {
+              "id": "fieldnotes",
+              "version": ">=0.1.0"
+            }
+          ]
+        }
+      ],
+      "icon": "NotebookPen",
+      "reviewedAt": "2026-10-25",
+      "boundOwner": "Tangerineeew",
+      "screenshotUrl": "https://raw.githubusercontent.com/Tangerineeew/fieldnotes-trip/129bf41e5d988fbf4cb1f716a79f68a1bcb819e7/docs/screenshot.png"
     },
     {
       "id": "flight-map",
@@ -430,7 +489,7 @@
       "authorPublicKey": "2FFQ7tGo/u61F7Sy8NnsNLeWQuNzDhxTso3xlh/MOnE=",
       "reviewedAt": "2026-10-03",
       "boundOwner": "Thewhitelight",
-      "downloadCount": 116,
+      "downloadCount": 144,
       "screenshotUrl": "https://raw.githubusercontent.com/Thewhitelight/trek-plugin-flight-map/a622ac5eeda8b4106460e00a45440c6e905e1669/docs/screenshot.png"
     },
     {
@@ -487,8 +546,37 @@
       "authorPublicKey": "DJDfduAyHs2Ja/xhOyMkbCAcreMZZyKuz70PqTyfYM0=",
       "reviewedAt": "2026-08-29",
       "boundOwner": "fbnlrz",
-      "downloadCount": 2300,
+      "downloadCount": 2343,
       "screenshotUrl": "https://raw.githubusercontent.com/fbnlrz/trek-track/91ab484ee4d7a8168cb8f25ef34d2acd061858a7/docs/screenshot.png"
+    },
+    {
+      "id": "journi-importer",
+      "name": "Journi Importer",
+      "author": "PhyberApex",
+      "description": "Import your Journi journals as TREK journeys: sign in, pick journals, and every moment becomes an entry with its pictures.",
+      "repo": "PhyberApex/journi-importer",
+      "type": "page",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "gitTag": "v1.0.0",
+          "commitSha": "67b9779ca867c3209c9ce7df7cc2ffad3a82d13e",
+          "downloadUrl": "https://github.com/PhyberApex/journi-importer/releases/download/v1.0.0/plugin.zip",
+          "sha256": "cdbfc31feec837b391cc8d045bcda142bf4957d87c5d6c10926ed334b0028d8a",
+          "trek": ">=4.2.0 <6.0.0",
+          "size": 25762,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-24T10:14:16.363Z",
+          "requiredAddons": [
+            "journey"
+          ]
+        }
+      ],
+      "icon": "BookOpen",
+      "reviewedAt": "2026-10-25",
+      "boundOwner": "PhyberApex",
+      "screenshotUrl": "https://raw.githubusercontent.com/PhyberApex/journi-importer/67b9779ca867c3209c9ce7df7cc2ffad3a82d13e/docs/screenshot.png"
     },
     {
       "id": "koffi",
@@ -592,7 +680,7 @@
       ],
       "reviewedAt": "2026-10-12",
       "boundOwner": "mauriceboe",
-      "downloadCount": 1255,
+      "downloadCount": 1428,
       "screenshotUrl": "https://raw.githubusercontent.com/mauriceboe/trek-plugin-koffi/9ef324a66ff046cb0e4d509be1d3e928b6e5413e/docs/screenshot.png"
     },
     {
@@ -650,7 +738,7 @@
       "authorPublicKey": "ydD/02TVm0yR4mkvmsUmstBO+PJLzl1Wkei2EDbkSeM=",
       "reviewedAt": "2026-07-18",
       "boundOwner": "geracobo",
-      "downloadCount": 572,
+      "downloadCount": 573,
       "screenshotUrl": "https://raw.githubusercontent.com/geracobo/trek-plugin-reservations/86133d7a61b7b63dc51aafd2aeb85d1257e1df70/docs/screenshot.png"
     },
     {
@@ -694,7 +782,7 @@
       "authorPublicKey": "DJDfduAyHs2Ja/xhOyMkbCAcreMZZyKuz70PqTyfYM0=",
       "reviewedAt": "2026-08-27",
       "boundOwner": "fbnlrz",
-      "downloadCount": 240,
+      "downloadCount": 245,
       "screenshotUrl": "https://raw.githubusercontent.com/fbnlrz/suica-saver/7127e0706fe8c2bc901792899b06956f89eb35e9/docs/screenshot.png"
     },
     {
@@ -763,7 +851,7 @@
       "authorPublicKey": "YgFVo9ES55xz9m0/0Thh5sgx/IlVaaU2r0hScEawgiA=",
       "reviewedAt": "2026-09-03",
       "boundOwner": "jubnl",
-      "downloadCount": 449,
+      "downloadCount": 473,
       "screenshotUrl": "https://raw.githubusercontent.com/jubnl/trek-plugin-sundial/920d20b7ca0c41eeb2129a2e3687c96a312c959d/docs/screenshot.png"
     },
     {
@@ -835,7 +923,7 @@
       "reviewedAt": "2026-09-24",
       "boundOwner": "raduwolf12",
       "authorPublicKey": "uMHwp7oHtdz7DIpkW4H0yZFMuyAxmVajzKh4079jiwA=",
-      "downloadCount": 665,
+      "downloadCount": 712,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/transport-search/a446a4f93401a52c2fa72cc1b90f560de8aa69ce/docs/screenshot.png"
     },
     {
@@ -895,7 +983,7 @@
       "authorPublicKey": "YgFVo9ES55xz9m0/0Thh5sgx/IlVaaU2r0hScEawgiA=",
       "reviewedAt": "2026-08-24",
       "boundOwner": "jubnl",
-      "downloadCount": 193,
+      "downloadCount": 196,
       "screenshotUrl": "https://raw.githubusercontent.com/jubnl/trek-gotify/203e1599b0c18552ed2605de532ba88f22931406/docs/screenshot.png"
     },
     {
@@ -906,6 +994,19 @@
       "repo": "aangelisc/trek-timeline",
       "type": "trip-page",
       "versions": [
+        {
+          "version": "0.1.2",
+          "gitTag": "v0.1.2",
+          "commitSha": "aa65fe9e3f5df62157290c1f40e92406d4c92ca7",
+          "downloadUrl": "https://github.com/aangelisc/trek-timeline/releases/download/v0.1.2/plugin.zip",
+          "sha256": "6f834b07d98ab2c0646e34389b41f221943607e609ddf887fb513174a7746e07",
+          "trek": ">=4.0.0 <6.0.0",
+          "size": 51875,
+          "apiVersion": 1,
+          "nativeModules": false,
+          "publishedAt": "2026-10-20T21:30:42.997Z",
+          "signature": "6ln7PV80SKnQKZ4Peofl2OTSXaiD6TdjJrcpIVsQAz70pNuGtJVg5UBzqT0k4rV5aJ4emVTyPBUfgw1Px7xBDA=="
+        },
         {
           "version": "0.1.1",
           "gitTag": "v0.1.1",
@@ -935,10 +1036,10 @@
       ],
       "icon": "Sheet",
       "authorPublicKey": "3E5NoGUyeqLwKxVOj9JOGHS1LCCnwRm85M0u/cZcxF4=",
-      "reviewedAt": "2026-10-06",
+      "reviewedAt": "2026-10-25",
       "boundOwner": "aangelisc",
-      "downloadCount": 261,
-      "screenshotUrl": "https://raw.githubusercontent.com/aangelisc/trek-timeline/cd3df2097cf146365e11988be0d2d2cce1f552c2/docs/screenshot.png"
+      "downloadCount": 329,
+      "screenshotUrl": "https://raw.githubusercontent.com/aangelisc/trek-timeline/aa65fe9e3f5df62157290c1f40e92406d4c92ca7/docs/screenshot.png"
     },
     {
       "id": "trek-vox-plugin",
@@ -980,7 +1081,7 @@
       "reviewedAt": "2026-08-23",
       "boundOwner": "MaximeCn",
       "authorPublicKey": "cKYogbifobHEVUFuAc/FEhKT5IXqC8VQwlayShTi9v4=",
-      "downloadCount": 104,
+      "downloadCount": 105,
       "screenshotUrl": "https://raw.githubusercontent.com/MaximeCn/trek-vox-plugin/f1c6692c51d8dcd0ed9cad25dfd5010f2cc25990/docs/screenshot.png"
     },
     {
@@ -1038,7 +1139,7 @@
       "reviewedAt": "2026-08-27",
       "boundOwner": "fbnlrz",
       "authorPublicKey": "DJDfduAyHs2Ja/xhOyMkbCAcreMZZyKuz70PqTyfYM0=",
-      "downloadCount": 620,
+      "downloadCount": 635,
       "screenshotUrl": "https://raw.githubusercontent.com/fbnlrz/trek-x-japan/438d7477a2b24f43c1ed7eec4f3dacc8956e2c13/docs/screenshot.png"
     },
     {
@@ -1157,7 +1258,7 @@
       "icon": "Images",
       "reviewedAt": "2026-08-24",
       "boundOwner": "raduwolf12",
-      "downloadCount": 424,
+      "downloadCount": 430,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/trip-gallery/5eaee9c161d7b353f3f8d80d9fca89321daee55c/docs/screenshot.png"
     },
     {
@@ -1322,7 +1423,7 @@
       "icon": "PackageOpen",
       "reviewedAt": "2026-10-12",
       "boundOwner": "raduwolf12",
-      "downloadCount": 983,
+      "downloadCount": 1006,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/trip-importer/f1d00a2d7bba95e8691050ff04c8f2e357cf1151/docs/screenshot.png"
     },
     {
@@ -1398,7 +1499,7 @@
       "homepage": "https://github.com/raduwolf12/trip-research",
       "reviewedAt": "2026-08-24",
       "boundOwner": "raduwolf12",
-      "downloadCount": 1416,
+      "downloadCount": 1443,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/trip-research/58f67a17cdfa1263c88ca9389baa26367ebc6425/docs/screenshot.png"
     },
     {
@@ -1459,7 +1560,7 @@
       "authorPublicKey": "DupqG0Rp0DxlJRRSxAnFpw6I5v/w5iu7fREFh3Ss5hg=",
       "reviewedAt": "2026-08-28",
       "boundOwner": "RenzoBeux",
-      "downloadCount": 665,
+      "downloadCount": 678,
       "screenshotUrl": "https://raw.githubusercontent.com/RenzoBeux/TREK-trip-segments/997dfed151e21d8c7347fd7296a31009fa8fa449/docs/screenshot.png"
     },
     {
@@ -1516,7 +1617,7 @@
       "authorPublicKey": "4QeCOm8gMfcoZdjIznao2KV10NSS7u/0AYn+6FA6/Oo=",
       "reviewedAt": "2026-10-12",
       "boundOwner": "mauriceboe",
-      "downloadCount": 1343,
+      "downloadCount": 1401,
       "screenshotUrl": "https://raw.githubusercontent.com/mauriceboe/trek-plugin-trip-todos/48a1c78cc6f5118ec82c0be4b12474f06bc1a29d/docs/screenshot.png"
     },
     {
@@ -1552,7 +1653,7 @@
       ],
       "reviewedAt": "2026-10-06",
       "boundOwner": "EvkohLand",
-      "downloadCount": 42,
+      "downloadCount": 51,
       "screenshotUrl": "https://raw.githubusercontent.com/EvkohLand/TrekPluginVanlife/84cc8d0889e77ce0abe7a354affc2de564bcc7a8/docs/screenshot.png"
     },
     {
@@ -1582,7 +1683,7 @@
       "authorPublicKey": "qm16jmvuqyG+JN0B5ivp0AP1D3Cp3CgF2yX97HG/XxM=",
       "reviewedAt": "2026-09-05",
       "boundOwner": "danl12353231",
-      "downloadCount": 133,
+      "downloadCount": 141,
       "screenshotUrl": "https://raw.githubusercontent.com/danl12353231/TREK-Wanderlog-plugin/3cda67ee5f0131419bcf7f34c30b138d5edb1c4e/docs/screenshot.png"
     },
     {
@@ -1647,7 +1748,7 @@
       "homepage": "https://github.com/raduwolf12/wiki-place-context",
       "reviewedAt": "2026-08-24",
       "boundOwner": "raduwolf12",
-      "downloadCount": 1454,
+      "downloadCount": 1484,
       "screenshotUrl": "https://raw.githubusercontent.com/raduwolf12/wiki-place-context/c4bf09730c3476b467338245319ecb7e22eb575e/docs/screenshot.png"
     }
   ]
